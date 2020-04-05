@@ -5,12 +5,16 @@ const port = process.env.PORT || 3000;
 const cors = require('cors');
 
 app.use(cors());
+app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json({extended:false}));
 app.use(function(req, res, next){
     res.header("Access-Control-Allow-Origin", "http://localhost:8080");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     next();
+});
+app.get('/', function(req, res){
+    res.sendFile('index.html');
 });
 app.use('/api/guardian', require('./src/routes/guardian'));
 app.use('/api/nytimes', require('./src/routes/ny'));

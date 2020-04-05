@@ -1,0 +1,518 @@
+{
+    "failure": false,
+    "data": [
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/business/stock-market-today-coronavirus.html",
+            "apiUrl": "nyt://article/6e6f0ec7-33c4-5172-906c-f643d867e61b",
+            "section": "business",
+            "title": "Stocks Inch Higher as Wall Street’s Turmoil Continues: Live Updates",
+            "description": "Stocks remained volatile even as governments took steps to offset the sharp decline gripping their economies.",
+            "date": "2020-03-18T23:56:18-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/business/19markets-briefing-nyse3/merlin_170728524_53456288-66eb-4425-b017-8771b48ece30-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/nyregion/coronavirus-new-york-update.html",
+            "apiUrl": "nyt://article/2ca95021-8ec0-573c-b357-5032f98d5207",
+            "section": "nyregion",
+            "title": "Coronavirus Cases in N.Y.C. Near 4,000; Brooklyn Count Soars: Live Updates",
+            "description": "A surge in new infections coincided with an increase in testing capacity in New York State, and Connecticut delayed its primary.",
+            "date": "2020-03-19T07:19:18-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/nyregion/19nyvirus-briefingNEW1/merlin_170731401_c28f73b1-be6f-4de7-8c82-c02fb79d38d7-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/health/coronavirus-masks-shortage.html",
+            "apiUrl": "nyt://article/f6e7da6d-e25d-58ab-afac-48f6d32025b4",
+            "section": "health",
+            "title": "‘At War With No Ammo’: Doctors Say Shortage of Protective Gear Is Dire",
+            "description": "The lack of proper masks, gowns and eye gear is imperiling the ability of medical workers to fight the coronavirus — and putting their own lives at risk.",
+            "date": "2020-03-19T15:58:44-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/science/19VIRUS-SUPPLIES1/merlin_170707689_f5e48441-eb8c-491f-912b-c1c8792f3a19-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/trump-coronavirus-outbreak.html",
+            "apiUrl": "nyt://article/8a4df1a1-479a-5aae-a085-3b5e4b2e4dbb",
+            "section": "us",
+            "title": "Before Virus Outbreak, a Cascade of Warnings Went Unheeded",
+            "description": "Government exercises, including one last year, made clear that the U.S. was not ready for a pandemic like the coronavirus. But little was done.",
+            "date": "2020-03-19T11:09:03-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/20/us/politics/20dc-virus-warnings-jp3/20dc-virus-warnings-jp3-superJumbo-v2.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/interactive/2020/03/19/upshot/coronavirus-jobless-claims-states.html",
+            "apiUrl": "nyt://interactive/c049a78d-05e5-53f1-b633-828e4eb5a2a6",
+            "section": "upshot",
+            "title": "The Staggering Rise in Jobless Claims This Week",
+            "description": "When we write the history of the coronavirus recession, we’ll say the downturn started in early March.",
+            "date": "2020-03-19T10:43:32-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/business/coronavirus-unemployment-states.html",
+            "apiUrl": "nyt://article/1ceba8a9-824c-50c8-ab97-f6c045bfea1f",
+            "section": "business",
+            "title": "Coronavirus Layoff Surge Overwhelms Unemployment Offices",
+            "description": "States are trying to beef up skeleton crews to handle a flood of jobless claims while expanding workers’ access to benefits.",
+            "date": "2020-03-19T14:37:43-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/business/19virus-joblesscrush3/merlin_170648199_77cdc0b1-c443-4f70-8bda-310620e2e480-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/business/economy/coronavirus-evictions.html",
+            "apiUrl": "nyt://article/a1d142bd-a813-5a9c-a785-02ccdabff84f",
+            "section": "business",
+            "title": "Racing to Head Off Evictions and Foreclosures",
+            "description": "A flurry of federal, state and local action aims to prevent a new housing crisis as the coronavirus pandemic upends the economy.",
+            "date": "2020-03-18T18:38:52-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/business/18virus-housing2/merlin_163995045_047a2684-15ae-4edc-b528-a3e2d2351210-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/coronavirus-heaven-frilot-mark-frilot.html",
+            "apiUrl": "nyt://article/cc3cd4ee-cb72-5258-b325-fcb59d7c6270",
+            "section": "us",
+            "title": "Her Facebook Friends Asked If Anyone Was Actually Sick. She Had an Answer.",
+            "description": "Heaven Frilot is normally a private person. But this is not a normal time. So she and her husband are now the face of the coronavirus for their conservative Louisiana community.",
+            "date": "2020-03-19T18:03:36-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/travel/coronavirus-cruise-costa-luminosa.html",
+            "apiUrl": "nyt://article/17424c9c-58e3-5d37-b9d7-f2bd5479ea51",
+            "section": "travel",
+            "title": "Passengers Fell Ill With Coronavirus. And the Ship Sailed On",
+            "description": "Even as Covid-19 sickened passengers, the Costa Luminosa was slow to act to prevent infections, despite two previous serious outbreaks on its parent company’s ships.",
+            "date": "2020-03-19T16:13:04-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/20/travel/20coronavirus-cruise-ship2/merlin_170717088_759e56e3-156f-4e46-860a-d28092d962b5-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/business/coronavirus-food-supply-kitchens.html",
+            "apiUrl": "nyt://article/ce7dfb52-cfde-5031-af6b-4ab152dea2c3",
+            "section": "business",
+            "title": "New York’s Food Distribution Networks Brace for an Unprecedented Threat",
+            "description": "Organizations expect labor shortages — just as an influx of ill and unemployed people hit the emergency feeding system.",
+            "date": "2020-03-18T10:00:32-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/business/18virus-foodsnetwork-01/merlin_170658171_c1783dee-ac39-44c4-bf76-25d6d63f4736-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/world/asia/coronavirus-china-united-states.html",
+            "apiUrl": "nyt://article/dcb10ed9-b2ab-5cee-8dbf-6499a89a4d6b",
+            "section": "world",
+            "title": "World Feared China Over Coronavirus. Now the Tables Are Turned.",
+            "description": "Asian countries that suffered through the pandemic first are working to guard against a new wave of contagion from the West.",
+            "date": "2020-03-19T08:08:04-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/world/19virus-reversal-sub-copy/19virus-reversal-sub-copy-superJumbo-v3.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/interactive/2020/03/19/world/coronavirus-flatten-the-curve-countries.html",
+            "apiUrl": "nyt://interactive/3abe35cb-f707-53a5-9c1b-6cfd2e3e37e1",
+            "section": "world",
+            "title": "Which Country Has Flattened the Curve for the Coronavirus?",
+            "description": "These charts show the trajectory of the coronavirus pandemic in each country. New cases have dwindled in China and South Korea, but the virus continues to spread rapidly in most of the world.",
+            "date": "2020-03-19T00:55:45-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/world/middleeast/syria-coronavirus-idlib-tents.html",
+            "apiUrl": "nyt://article/13aa3752-c0cb-554a-b06b-003e839fca78",
+            "section": "world",
+            "title": "‘Wash Our Hands? Some People Can’t Wash Their Kids for a Week.’",
+            "description": "In devastated northwestern Syria, the coronavirus may already be spreading in packed displacement camps, and the international response is weeks behind.",
+            "date": "2020-03-19T13:12:04-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/world/19idlib2-SUB/19idlib2-SUB-superJumbo-v3.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/interactive/2020/03/19/arts/african-american-art-inspiration.html",
+            "apiUrl": "nyt://interactive/1d409dc4-3136-55ee-a39d-e1facf17e878",
+            "section": "arts",
+            "title": "35 Top African-American Artists on the Work That Inspires Them",
+            "description": "Kerry Washington on Beyoncé, Ta-Nehisi Coates on Kendrick Lamar, Oprah Winfrey on Toni Morrison. This is the black art that is defining the century.",
+            "date": "2020-03-19T00:01:53-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/29/arts/29black-creators-promo/29black-creators-promo-superJumbo-v3.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/sports/running-exercise-coronavirus.html",
+            "apiUrl": "nyt://article/a6f35f2a-d732-5e05-9eeb-2f219edc4278",
+            "section": "sports",
+            "title": "Running From Coronavirus: A Back-to-Basics Exercise Boom",
+            "description": "With gyms and pools closed and sports leagues shut down, a miniboom is emerging in running, a natural for social distancing.",
+            "date": "2020-03-19T12:43:26-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/22/sports/18virus-running-1/merlin_170705430_09916961-383b-4052-b9ba-37ac1579610d-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/coronavirus-foster-pets.html",
+            "apiUrl": "nyt://article/b6988587-448b-5592-86c1-8094dc2c49e0",
+            "section": "us",
+            "title": "Stuck at Home, Americans Turn to Foster Pets for Companionship",
+            "description": "Shelters across the United States are reporting upticks in foster applications as people seek out a friend to ride out the coronavirus crisis with.",
+            "date": "2020-03-19T17:14:58-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/multimedia/19xp-virus-fosterpets/merlin_170600727_9994b8b8-72e9-482a-820b-0e69ffc3752d-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/t-magazine/frank-stella.html",
+            "apiUrl": "nyt://article/40f87cb4-1d93-5c8c-bfa4-04f8ca805e81",
+            "section": "t-magazine",
+            "title": "The Constellation of Frank Stella",
+            "description": "The artist’s Minimalist abstractions helped change the direction of painting at the start of his career. Now at the end of it, the 83-year-old artist looks back to his beginnings.",
+            "date": "2020-03-18T11:00:13-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/t-magazine/18tmag-stella-slide-NPH2/18tmag-stella-slide-NPH2-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/briefing/coronavirus-unemployment-snowmen.html",
+            "apiUrl": "nyt://article/c4c08b01-eeeb-50e4-b87f-2c565570ab0e",
+            "section": "briefing",
+            "title": "Coronavirus, Unemployment, Snowmen: Your Thursday Evening Briefing",
+            "description": "Here’s what you need to know at the end of the day.",
+            "date": "2020-03-19T17:47:33-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/briefing/19pmbriefing-us-ss-slide-04AM/19pmbriefing-us-ss-slide-04AM-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/podcasts/the-daily/new-york-coronavirus.html",
+            "apiUrl": "nyt://article/5ccbb614-bb92-505e-a38f-99ce0320f0df",
+            "section": "podcasts",
+            "title": "One City’s Fight to Stop the Virus",
+            "description": "We visited New Rochelle, N.Y., a hot spot of infections, and asked: Are the containment efforts working?",
+            "date": "2020-03-19T05:52:21-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/12/nyregion/19daily/12nyvirus-livebriefing-newrochelle-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/the-argument-coronavirus-democratic-primary.html",
+            "apiUrl": "nyt://article/1644d14f-7c31-597b-b079-bb72db2f6b06",
+            "section": "opinion",
+            "title": "How Do We Vote in a Pandemic?",
+            "description": "The editorial board’s health writer Jeneen Interlandi shares appropriate responses to Covid-19.",
+            "date": "2020-03-19T05:00:12-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19argument-seventyone/19argument-seventyone-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-doctor-new-york.html",
+            "apiUrl": "nyt://article/17ffd3ee-aa8c-53c2-be81-467d889acccb",
+            "section": "opinion",
+            "title": "A New York Doctor’s Coronavirus Warning: The Sky Is Falling",
+            "description": "Alarmist is not a word anyone has ever used to describe me before. But this is different.",
+            "date": "2020-03-19T05:00:14-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19Griggs/merlin_170682369_cf8d1e67-f274-4cb7-931e-3f1434985f5f-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-home-school.html",
+            "apiUrl": "nyt://article/d7ebe71f-8421-5564-9d9e-86d411302b3c",
+            "section": "opinion",
+            "title": "I Refuse to Run a Coronavirus Home School",
+            "description": "My kids are watching TV, playing video games and eating cookies. It’s fine.",
+            "date": "2020-03-19T15:00:07-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-immigration-prisons.html",
+            "apiUrl": "nyt://article/e5eb8f73-eeaa-5ab7-86ea-30849f078508",
+            "section": "opinion",
+            "title": "Close Immigration Prisons Now",
+            "description": "The coronavirus’s quick transmission and deadly track record is likely to worsen inside these institutions.",
+            "date": "2020-03-19T15:49:07-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19Garcia-Hernandez2/19Garcia-Hernandez2-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-pregnancy.html",
+            "apiUrl": "nyt://article/34ac216d-5d42-513f-a67c-c470f38c50be",
+            "section": "opinion",
+            "title": "I Did Not Plan to Be Pregnant in a Pandemic",
+            "description": "An early lesson in uncertainties and parenthood.",
+            "date": "2020-03-19T15:00:07-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19March/19March-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-loneliness.html",
+            "apiUrl": "nyt://article/02a17072-d44b-518a-ac63-3bd082af0c38",
+            "section": "opinion",
+            "title": "How to Be Lonely",
+            "description": "It’s not just a negative state to be vanquished. There’s magic in it too.",
+            "date": "2020-03-19T15:00:06-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19Laing/19Laing-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/mcdonalds-paid-leave-coronavirus.html",
+            "apiUrl": "nyt://article/3a7b0a0a-549e-55e1-b048-b082d56f4e35",
+            "section": "opinion",
+            "title": "‘If I Caught the Coronavirus, Would You Want Me Making Your Next Meal?’",
+            "description": "The government’s relief bill doesn’t cover many McDonald’s workers. It’s time for the company to step up.",
+            "date": "2020-03-19T11:00:05-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/trump-coronavirus.html",
+            "apiUrl": "nyt://article/c8e2f183-e562-5327-87e3-fddb62e136ba",
+            "section": "opinion",
+            "title": "3 Rules for the Trump Pandemic",
+            "description": "One: Don’t trust the president.",
+            "date": "2020-03-19T16:58:03-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19krugmanWeb/merlin_170730657_3cbd58cc-6821-4647-812d-905ff6c85958-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/coronavirus-disabled-health-care.html",
+            "apiUrl": "nyt://article/93065e69-dd6c-57ea-8914-97d79b9ee3d6",
+            "section": "opinion",
+            "title": "My Life Is More ‘Disposable’ During This Pandemic",
+            "description": "The ableism and ageism being unleashed is its own sort of pestilence.",
+            "date": "2020-03-19T05:00:12-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/opinion/19disability-kukla/19disability-kukla-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/opinion/nyc-poor-coronavirus.html",
+            "apiUrl": "nyt://article/44144921-3a7d-5251-8baf-b9375d32e8e5",
+            "section": "opinion",
+            "title": "What New York Can Do Now",
+            "description": "The nonprofits that serve vulnerable communities were already stretched thin before the coronavirus.",
+            "date": "2020-03-18T20:41:43-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/opinion/18newyork1/merlin_162071784_f9550c1a-a8a9-4629-9d0d-9c538699ebda-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/opinion/letters/us-coronavirus-medical.html",
+            "apiUrl": "nyt://article/1253ad9d-004d-5a8c-a355-6fdf894055d5",
+            "section": "opinion",
+            "title": "Limited Resources for Tests and Treatment of Coronavirus",
+            "description": "Readers are dismayed that the well connected are getting tested and discourage city dwellers from dispersing to ill-equipped rural areas.",
+            "date": "2020-03-19T15:49:15-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/multimedia/18virus-elite/18virus-elite-superJumbo-v2.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/arts/television/marc-maron-end-times-fun-netflix.html",
+            "apiUrl": "nyt://article/9a745a4d-eb2d-5397-bfb7-c4bfbc6bdd66",
+            "section": "arts",
+            "title": "Marc Maron and the Comedy of Doubt",
+            "description": "In a special recorded last year, the standup proved prescient by focusing on his uncertainty in the face of daunting world moments.",
+            "date": "2020-03-18T13:33:33-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/arts/18comedy-maron2/18comedy-maron2-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/style/coronavirus-love-is-quarantine.html",
+            "apiUrl": "nyt://article/0fb90b64-dc5c-5f49-b8a7-922be349b7db",
+            "section": "style",
+            "title": "Love Is Quarantine, and Your Apartment Is the Pod",
+            "description": "A new project aims to turn social distancing into a dating game, taking a cue from “Love Is Blind.”",
+            "date": "2020-03-18T19:03:16-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/fashion/18VIRUS-LOVEISQUARANTINE-logo/merlin_170688624_e1508b95-c659-411d-a883-98d45abd181c-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/parenting/coronavirus-kids-events-cancelled.html",
+            "apiUrl": "nyt://article/abbad388-8a08-529f-8d58-63d6a7ee475a",
+            "section": "parenting",
+            "title": "Handling Your Kid’s Disappointment When Everything Is Canceled",
+            "description": "School and events are shutting down, impacting children in unexpected ways. Here’s how to deal with the letdown.",
+            "date": "2020-03-18T19:18:24-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/climate/us-flood-season-forescast.html",
+            "apiUrl": "nyt://article/83797152-82ac-58d6-bb17-188a74e2895e",
+            "section": "climate",
+            "title": "Expect a Soggy U.S. Flood Season, but Less Severe Than Last Year’s",
+            "description": "The National Oceanic and Atmospheric Administration expects major to moderate flooding for 23 states, but not as bad as last year’s ruinous spring.",
+            "date": "2020-03-19T16:04:03-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/climate/19CLI-NOAAPREDICT1/19CLI-NOAAPREDICT1-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/russ-travers-counterterrorism-center.html",
+            "apiUrl": "nyt://article/1aae6907-6083-5e05-ac74-6f45ebd66fea",
+            "section": "us",
+            "title": "Counterterrorism Chief Exits as Top U.S. Intelligence Official Weighs Cuts",
+            "description": "The move was the latest reshuffling of top intelligence officials that has prompted concerns among some officials of a broader expulsion.",
+            "date": "2020-03-19T18:38:49-04:00",
+            "image": "https://static01.nyt.com/images/2020/04/18/us/politics/18dc-intel-mapaya/merlin_163906485_34744d3c-92de-4c8c-8f9f-5272a08ea920-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/nyregion/nyc-schools-numbers-black-students-diversity-specialized.html",
+            "apiUrl": "nyt://article/5162e411-1629-569e-acc8-ef18102f0717",
+            "section": "nyregion",
+            "title": "This Year, Only 10 Black Students Got Into N.Y.C.’s Top High School",
+            "description": "A bitter debate about diversity in the nation’s largest school system followed news last year that Stuyvesant High School had admitted just seven black students.",
+            "date": "2020-03-19T15:30:14-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/nyregion/19specialized/merlin_152274810_dfb7752b-da56-4b32-b59c-3ed37054b743-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/americans-held-overseas-in-iran-and-lebanon-are-freed.html",
+            "apiUrl": "nyt://article/321c3cd1-ef92-5bb7-a084-5abea32b617d",
+            "section": "us",
+            "title": "Americans Held Overseas in Iran and Lebanon Are Freed",
+            "description": "Amer Fakhoury had been held in Beirut on decades-old charges. Separately, Michael R. White, a U.S. Navy veteran and cancer patient, was released from an Iranian prison.",
+            "date": "2020-03-19T11:12:43-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/tulsi-gabbard-drops-out.html",
+            "apiUrl": "nyt://article/e8bf2ab7-718b-5bed-8929-7a7be61efdbb",
+            "section": "us",
+            "title": "Tulsi Gabbard Drops Out of Presidential Race",
+            "description": "The representative from Hawaii, who often defied her own party, announced the end of her campaign and said she would back Joe Biden.",
+            "date": "2020-03-19T10:54:15-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/us/politics/19gabbard-out/merlin_169983657_46f6aa34-e35d-4ae3-856c-b3d03969b79a-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/joe-biden-vice-president.html",
+            "apiUrl": "nyt://article/b5fcd3cb-c533-5ffa-85d2-2330629de1bd",
+            "section": "us",
+            "title": "Biden Running Mate? Party Leaders Favor Former Female Rivals",
+            "description": "Discussions with 60 Democratic officials found that three former candidates — Kamala Harris, Elizabeth Warren and Amy Klobuchar — were their leading choices, followed by Stacey Abrams.",
+            "date": "2020-03-19T18:00:56-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/19/us/politics/19biden-veep-01/merlin_158715621_9d59f3a7-248e-4cec-8788-70c802e012f6-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/nyregion/coronavirus-nursing-home.html",
+            "apiUrl": "nyt://article/f308ffc5-d64c-54a0-af8f-95f5ecd283b8",
+            "section": "nyregion",
+            "title": "92 Years Old, Scared and Pleading to Come Home",
+            "description": "A family grapples with a wrenching coronavirus question: Do we leave our father in the nursing home?",
+            "date": "2020-03-19T13:28:20-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/us/politics/john-ratcliffe-intelligence-trump.html",
+            "apiUrl": "nyt://article/135af3dd-4101-5944-9340-071863f70c2b",
+            "section": "us",
+            "title": "With Intelligence Nominee, Trump Ensures an Ally Will Have the Post",
+            "description": "By nominating John Ratcliffe for director of national intelligence, President Trump gave the Senate a choice: Accept a Trump stalwart or stick with the acting stalwart.",
+            "date": "2020-03-19T05:00:24-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/17/us/politics/00dc-ratcliffe1/merlin_165440340_1062f646-a6e4-479e-973d-141b14d7a05a-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/science/space/al-worden-dead.html",
+            "apiUrl": "nyt://article/5d7d4c35-c5ee-5125-b3b1-34103b93434e",
+            "section": "science",
+            "title": "Alfred M. Worden, Who Orbited the Moon in 1971, Dies at 88",
+            "description": "While two Apollo 15 crewmen roamed the lunar surface on a scientific mission, he took valuable photographs from the space capsule.",
+            "date": "2020-03-18T15:07:21-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/16/smarter-living/coronavirus-social-distancing.html",
+            "apiUrl": "nyt://article/0d524409-853e-5edc-bf46-7714c739e43c",
+            "section": "smarter-living",
+            "title": "Wondering About Social Distancing?",
+            "description": "Answers to your most common questions about the best practices for stemming the tide of the coronavirus pandemic.",
+            "date": "2020-03-16T09:01:49-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/16/travel/16social-distancing-coronavirus1/16social-distancing-coronavirus1-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/smarter-living/coronavirus-anxiety-tips.html",
+            "apiUrl": "nyt://article/3bcb16ba-5a7c-5bbc-86ee-0a02898a8e46",
+            "section": "smarter-living",
+            "title": "10 Ways to Ease Your Coronavirus Anxiety",
+            "description": "These simple tips will help you relax and put things in perspective — in between washing your hands, of course.",
+            "date": "2020-03-18T16:30:08-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/smarter-living/00sl-coronaanxiety/00sl-coronaanxiety-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/parenting/parents-need-stress-relief-too.html",
+            "apiUrl": "nyt://article/54bda260-af4b-5c29-9e89-e00b7ea5bf7f",
+            "section": "parenting",
+            "title": "Parents Need Stress Relief, Too",
+            "description": "We’re all anxious. Here are ways to cope.",
+            "date": "2020-03-18T09:05:44-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/17/smarter-living/dog-pets-quarantine-coronavirus-tips.html",
+            "apiUrl": "nyt://article/ca71ae9c-d4d5-5a1d-8ee4-a588c05e5aab",
+            "section": "smarter-living",
+            "title": "Helping Your Dog Survive During a Quarantine",
+            "description": "Quarantine means no one goes out — and that includes your pup, unless you have a private outdoor space for them. Here’s how to help your dog thrive while you’re both stuck indoors.",
+            "date": "2020-03-17T16:30:07-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/17/smarter-living/00sl-dogquaratine/00sl-dogquaratine-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/14/health/coronavirus-elderly-protection.html",
+            "apiUrl": "nyt://article/8a60211b-fa33-5410-8bdd-bb71b91166ac",
+            "section": "health",
+            "title": "How to Protect Older People From the Coronavirus",
+            "description": "People over 60, and especially over 80, are particularly vulnerable to severe or fatal infection. Here are some steps to reduce their risk.",
+            "date": "2020-03-14T17:57:13-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/14/science/14VIRUS-ELDERLY1/merlin_170400345_d4d71c2c-c866-4ad2-981c-1a50d5d1d82c-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/arts/music/coronavirus-concerts-home.html",
+            "apiUrl": "nyt://article/8b0ba3c3-9383-5d51-b89a-00db46f3f480",
+            "section": "arts",
+            "title": "Disconcerted: A Music Critic’s Empty Nights",
+            "description": "Making and hearing music in public is inherently social, and the mysterious alchemy of a live show — of sharing the same vibrating air — can’t be replicated at home.",
+            "date": "2020-03-18T11:30:28-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/arts/18virus-essay-upt2/merlin_170606898_a4f6bc5d-c395-473d-ab05-15e8ac875ad8-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/arts/design/romare-bearden-abstract-painting.html",
+            "apiUrl": "nyt://article/65cc3299-10c9-5687-8764-0e982c889daa",
+            "section": "arts",
+            "title": "Romare Bearden’s Rarely Seen Abstract Side",
+            "description": "Although famous for figurative works, the American modernist had a little-known foray into abstract painting that included some of his best work.",
+            "date": "2020-03-19T10:00:08-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/17/books/review/deaths-of-despair-and-the-future-of-capitalism-anne-case-angus-deaton.html",
+            "apiUrl": "nyt://article/cdbf3f60-873e-5e8e-9f8b-afea970a3753",
+            "section": "books",
+            "title": "How the White Working Class Is Being Destroyed",
+            "description": "“Deaths of Despair and the Future of Capitalism,” by Anne Case and Angus Deaton, describes the growing dysfunction of blue-collar workers in white communities.",
+            "date": "2020-03-17T05:00:07-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/books/debut-novels-book-tours.html",
+            "apiUrl": "nyt://article/b7d0b797-12a1-5c13-a4ad-10f079dbe6fc",
+            "section": "books",
+            "title": "Without Places to Gather, Debut Novelists Reimagine Book Promotion",
+            "description": "First-time novelists with books out or coming soon talk about their changes of plans and how they’re spending these unusual days.",
+            "date": "2020-03-18T16:00:15-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/16/books/16DEBUTS-GRID/16DEBUTS-GRID-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/arts/reply-all-podcast.html",
+            "apiUrl": "nyt://article/5a9a0939-1cc5-5781-a0e6-947106d6e70d",
+            "section": "arts",
+            "title": "A Song No One Remembered. A Podcast That’s Hard to Forget.",
+            "description": "On “Reply All,” the hosts PJ Vogt and Alex Goldman explore all that’s “delicious and weird” about life in the internet age.",
+            "date": "2020-03-19T08:00:06-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2016/03/22/science/what-spring-looks-like-from-space.html",
+            "apiUrl": "nyt://article/2b7e0352-1ba5-57ee-812f-a1547fc5e217",
+            "section": "science",
+            "title": "What Spring Looks Like From Space",
+            "description": "An image from the Meteosat-9 satellite shows Earth on the vernal equinox, the official start of spring in the Northern Hemisphere.",
+            "date": "2016-03-21T11:45:36-04:00",
+            "image": "https://static01.nyt.com/images/2016/03/22/science/22TB-Equinox/22TB-Equinox-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/17/books/review/dream-universe-david-lindley.html",
+            "apiUrl": "nyt://article/7ad5f6b5-ea76-5b50-9b22-bbdcf587a649",
+            "section": "books",
+            "title": "Has Physics Lost Its Way?",
+            "description": "In “The Dream Universe,” David Lindley argues that physicists have become too enamored of theoretical phenomena like parallel universes and black holes.",
+            "date": "2020-03-17T05:00:09-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/science/abel-prize-mathematics.html",
+            "apiUrl": "nyt://article/7b86fbd3-beac-5ab2-a0db-348820769a49",
+            "section": "science",
+            "title": "Abel Prize in Mathematics Shared by 2 Trailblazers of Probability and Dynamics",
+            "description": "Hillel Furstenberg, 84, and Gregory Margulis, 74, both retired professors, share the mathematics equivalent of a Nobel Prize.",
+            "date": "2020-03-18T07:00:08-04:00",
+            "image": "https://static01.nyt.com/images/2020/03/18/science/18ABEL1a/18ABEL1a-superJumbo.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/19/health/coronavirus-distancing-transmission.html",
+            "apiUrl": "nyt://article/a6626221-08f9-519e-a7a1-4a20490b0ab8",
+            "section": "health",
+            "title": "You Can Help Break the Chain of Transmission",
+            "description": "“Every time each of us stops, or even just delays, an infection is a small victory.”",
+            "date": "2020-03-19T05:00:16-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        },
+        {
+            "webUrl": "https://www.nytimes.com/2020/03/18/nyregion/new-jersey-family-coronavirus.html",
+            "apiUrl": "nyt://article/32785b9e-7d44-5dd0-b2ce-551cb5f000ae",
+            "section": "nyregion",
+            "title": "Coronavirus Ravages 7 Members of a Single Family, Killing 4",
+            "description": "The matriarch of the large New Jersey family died Wednesday night without ever knowing that her two oldest children had died before her.",
+            "date": "2020-03-18T21:26:06-04:00",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nytimes_hq.jpg"
+        }
+    ]
+}

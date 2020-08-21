@@ -1,5 +1,5 @@
 
-function parseGuardianNews(object, len) {
+function parseGuardianNews(object) {
     let response = object["response"];
     if (response["status"] != "ok" || response["results"] == null) {
         return {
@@ -15,6 +15,8 @@ function parseGuardianNews(object, len) {
             let article = results[i];
             let main = article["blocks"]["main"];
             let body = article["blocks"]["body"];
+            if(main == null || body == null)
+                continue;
             let newResponse = new Map();
             newResponse["webUrl"] = article["webUrl"];
             newResponse["apiUrl"] = article["apiUrl"];
@@ -34,8 +36,9 @@ function parseGuardianNews(object, len) {
                 newResponse["image"] = "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png";
             }
             newResponse["description"] = body[0]["bodyTextSummary"];
-            parsedResponse.push(newResponse);
-            if(len != -1 && parsedResponse.length == 10 )
+            if(checkIfallKeysPresent(newResponse))
+                parsedResponse.push(newResponse);
+            if(parsedResponse.length == 10)
                 break;
         } catch(err){
             continue;
@@ -44,7 +47,47 @@ function parseGuardianNews(object, len) {
     return parsedResponse;
 }
 
-function parseNYTimesNews(object, len){
+function parseLatestGuardianNews(data){
+    let obj = data.response;
+    if(obj.status=="ok"){
+        let pageSize = obj.pageSize;
+        let results = obj.results;
+        let parsedResponse = new Array();
+        for(let i=0;i<pageSize;i++){
+            try{
+                let article = results[i];
+                let newResponse = {};
+                newResponse.id = article["id"];
+                newResponse.section = article["sectionName"];
+                newResponse.title = article["webTitle"];
+                newResponse.web_url = article["webUrl"];
+                newResponse.date = article["webPublicationDate"];
+                newResponse.thumbnail = "";
+                if('fields' in article){
+                    newResponse.thumbnail = article["fields"]["thumbnail"];
+                    newResponse.headline = article["fields"]["headline"];
+                }
+                parsedResponse.push(newResponse);
+            } catch(err){
+                console.log("Erro");
+                continue;
+            }
+        }
+        return parsedResponse;
+    }
+}
+
+function checkIfallKeysPresent(obj){
+    var present = true;
+    Object.keys(obj).forEach(function(key){
+        if(obj[key] == null){
+            present = false;
+        }
+    });
+    return present;
+}
+
+function parseNYTimesNews(object){
     if (object["status"] != "OK") {
         return {
             "msg": "Null response from NYTime API",
@@ -79,8 +122,9 @@ function parseNYTimesNews(object, len){
                 }
             }
             newResponse.source = "nytimes";
-            parsedResponse.push(newResponse);
-            if(len != -1 && parsedResponse.length == 10 )
+            if(checkIfallKeysPresent(newResponse))
+                parsedResponse.push(newResponse);
+            if(parsedResponse.length == 10)
                 break;
         } catch(err){
             continue;
@@ -192,7 +236,8 @@ let parseNYSearchNews = function(object){
                 map.webUrl = response["web_url"];
                 map.description = response["abstract"];
                 map.source = "nytimes";
-                news.push(map);
+                if(checkIfallKeysPresent(map))
+                    news.push(map);
             }
             return news;
         } catch(err){
@@ -221,6 +266,7 @@ module.exports = {
     parseNYSearchNews,
     parseGuardianSpecificNews,
     parseNYDetailNews,
+    parseLatestGuardianNews,
     guardian_section_mappings,
     ny_section_mappings
 }

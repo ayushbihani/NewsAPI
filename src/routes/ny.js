@@ -34,7 +34,7 @@ router.get('/', async (req, response) => {
         console.log(res);
         //response.json(body);
         let length = section=="home"?-1:10;
-        let news = parseNYTimesNews(body, length);
+        let news = parseNYTimesNews(body);
         response.status(200).json({
             'failure':false,
             'data':news

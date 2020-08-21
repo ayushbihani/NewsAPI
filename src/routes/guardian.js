@@ -1,15 +1,14 @@
 const router = require('express').Router();
 const config = require('../../config');
 const request = require('request');
-const guardian_static = require('./static_guardian.json');
 const functions = require('../functions');
 
 const parseGuardianNews = functions.parseGuardianNews;
 const parseGuardianSpecificNews = functions.parseGuardianSpecificNews;
+const parseLatestGuardianNews = functions.parseLatestGuardianNews;
 
 router.get('/home', async (req, response) => {
     const url = "https://content.guardianapis.com/search?api-key=" + config["Guardian"] + "&section=(sport|business|technology|politics|world)&show-blocks=all";
-    //response.json(guardian_static);
         request(url, { json: true }, (err, res, body) => {
         if (err) {
             response.json({ 
@@ -18,7 +17,7 @@ router.get('/home', async (req, response) => {
                 'extra': err 
             });
         }
-        let news = parseGuardianNews(body, -1);
+        let news = parseGuardianNews(body);
         response.status(200).json({
             'failure':false,
             'data':news
@@ -49,7 +48,7 @@ router.get('/', async (req, response)=>{
                 'extra': err 
             });
         }
-        let news = parseGuardianNews(body, 10);
+        let news = parseGuardianNews(body);
         response.status(200).json({
             'failure':false,
             'data':news
@@ -57,6 +56,17 @@ router.get('/', async (req, response)=>{
     });
 });
 
+
+router.get('/latest', async(req, response)=>{
+    const endpoint = "https://content.guardianapis.com/search?order-by=newest&show-fields=starRating,headline,thumbnail,short-url&api-key="+config["Guardian"];
+    request(endpoint, {json:true},(err, res, body)=>{
+        const news = parseLatestGuardianNews(body);
+        response.status(200).json({
+            'failure':false,
+            'data': news,
+        });
+    }); 
+});
 
 router.get('/detail', async(req, response)=>{
     const id = req.query["id"];
